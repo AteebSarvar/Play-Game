@@ -9,5 +9,3 @@ Welcome to the Instant Games Platform! This project is a fun and interactive pla
 - **Frontend**: React.js
 - **Backend**: Node.js and Express.js
 - **Database**: MongoDB
-- **Telegram SDK**: For Telegram integration
-- **Wallet Connect**: RainbowKit for connecting crypto wallets
